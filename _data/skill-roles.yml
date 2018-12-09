@@ -1,9 +1,4 @@
-- name: UI Design
-- name: UX Design
-- name: Visual Design
-- name: Interaction Design
-- name: Prototyping
-- name: UI Animation
-- name: Illustration
-- name: Wireframing
-- name: Copywriting
+- name: HTML/CSS
+- name: Javascript, ES2015+
+- name: Vue
+- name: React

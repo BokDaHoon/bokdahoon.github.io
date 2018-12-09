@@ -2,9 +2,9 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Jihye Leee
+title:          Dahoon Bok
 baseurl:        ""
-url:            "http://www.jihyeleee.com"
+url:            "http://bokdahoon.github.io/"
 
 # Assets
 sass:
@@ -16,13 +16,13 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Jihye Leee
-  url:          http://jihyeleee.com/
-  email:        iam.leejihye@gmail.com  
-  github:       iamleejihye
-  twitter:      playpingpong
+  name:         Dahoon Bok
+  url:          http://bokdahoon.github.io/
+  email:        potter7050@naver.com
+  github:       BokDaHoon
+  twitter:      potter7050
 
 # Custom vars
 version:        3.4.1
 github:
-  repo:         https://github.com/iamleejihye/iamleejihye.github.io
+  repo:         https://github.com/BokDaHoon/bokdahoon.github.io

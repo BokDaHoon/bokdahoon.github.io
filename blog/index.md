@@ -4,7 +4,7 @@ title: "Blog"
 main: true
 project-header: true
 header-img: img/about.jpg
-description: 관심 분야의 글을 아주 가끔씩 올립니다.
+description: 
 ---
 
 <ul class="catalogue">
